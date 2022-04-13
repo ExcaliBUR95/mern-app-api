@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "asdasdwqrddsa",
+  "mongoUrl": "mongodb+srv://into:code@cluster0.odtfl.mongodb.net/app",
+  "baseUrl": "http://localhost:5000"
+}
